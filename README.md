@@ -11,6 +11,8 @@ Hey there! 👋 I'm Sofia Khudomyasova, and I'm on an exciting journey to become
 🌱 <b>I’m currently learning</b> JavaScript, PHP, Laravel, WordPress and web application deployment!  <br>
 📫 <b>How to reach me</b>: sofiakhudomyasova@gmail.com   <br>
 
+If you want to see my WordPress project, contact me!
+
 <b>There is still much I have to learn, but so far, this is what I have learn in my classes </b> 🎨✨
 
 <div style="display:flex">
