@@ -4,12 +4,12 @@ Hey there! 👋 I'm Sofia Khudomyasova, and I'm on an exciting journey to become
 
 <h4>Let me tell you a bit about myself:</h4>
 
-💬 Language Skills: I've achieved a *C1 level in Cambridge English*, making English my second language, since I practised it a lot throughout my whole life. <br>
-💻 Work Ethic: I pride myself on being hardworking and incredibly curious.  <br>
-✨Thinking Beyond Boundaries: From elegant design layouts to more strange ones, I enjoy blending different elements to make digital projects that are both cohesive and captivating.  <br>
-🔭 I'm currently studying in IES Zaidín Vergeles  <br>
-🌱 I’m currently learning JavaScript, PHP, Laravel, WordPress and web application deployment!  <br>
-📫 How to reach me: sofiakhudomyasova@gmail.com   <br>
+💬 <b>Language Skills</b>: I've achieved a *C1 level in Cambridge English*, making English my second language, since I practised it a lot throughout my whole life. <br>
+💻 <b>Work Ethic</b>: I pride myself on being hardworking and incredibly curious.  <br>
+✨<b>Thinking Beyond Boundaries</b>: From elegant design layouts to more strange ones, I enjoy blending different elements to make digital projects that are both cohesive and captivating.  <br>
+🔭 <b>I'm currently studying</b> in IES Zaidín Vergeles  <br>
+🌱 <b>I’m currently learning</b> JavaScript, PHP, Laravel, WordPress and web application deployment!  <br>
+📫 <b>How to reach me</b>: sofiakhudomyasova@gmail.com   <br>
 
 <b>There is still much I have to learn, but so far, this is what I have learn in my classes </b> 🎨✨
 
