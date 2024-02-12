@@ -25,7 +25,8 @@ If you want to see my WordPress project, contact me!
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS3" width="30" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="Apache Tomcat Logo" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/2560px-Apache_Software_Foundation_Logo_%282016%29.svg.png" alt="Apache Software Foundation Logo" width="100" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/2560px-Apache_Software_Foundation_Logo_%282016%29.svg.png](https://angular.io/assets/images/logos/angular/angular.png" alt="AngularJS" width="100" height="50">
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angularjs" width="40" height="40">
+
 
 
 </div>
